@@ -1,6 +1,6 @@
 # 🧩C++ Console Projects
-<br>
 Author:Jatan kumar
+
 <br>
 This repository contains a collection of **C++ console-based projects** built while learning and practicing C++.  
 The projects progress from **beginner to advanced** level, covering core concepts like:
@@ -12,18 +12,19 @@ The projects progress from **beginner to advanced** level, covering core concept
 All projects run in the **console (terminal/command prompt)** using standard C++ (cin, cout, file I/O) without GUI libraries.  
 
 ## 📂 Structure
-cpp-console-projects/
-├── beginner/
-│ ├── calculator.cpp
-│ ├── tic_tac_toe.cpp
-│ └── ...
-├── intermediate/
-│ ├── atm.cpp
-│ ├── hospital.cpp
-│ └── ...
-└── advanced/
-├── sudoku_solver.cpp
-└── database_engine.cpp
+
+- cpp-console-projects/
+  - beginner/
+    - calculator.cpp
+    - tic_tac_toe.cpp
+    - ...
+  - intermediate/
+    - atm.cpp
+    - hospital.cpp
+    - ...
+  - advanced/
+    - sudoku_solver.cpp
+    - database_engine.cpp
 
 ## 🎯 Goals
 - Strengthen core C++ concepts.  
