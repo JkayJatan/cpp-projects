@@ -1,4 +1,4 @@
-# C++ Console Projects
+# 🧩C++ Console Projects
 <br>
 Author:Jatan kumar
 <br>
@@ -14,8 +14,16 @@ All projects run in the **console (terminal/command prompt)** using standard C++
 ## 📂 Structure
 cpp-console-projects/
 ├── beginner/
+│ ├── calculator.cpp
+│ ├── tic_tac_toe.cpp
+│ └── ...
 ├── intermediate/
+│ ├── atm.cpp
+│ ├── hospital.cpp
+│ └── ...
 └── advanced/
+├── sudoku_solver.cpp
+└── database_engine.cpp
 
 ## 🎯 Goals
 - Strengthen core C++ concepts.  
