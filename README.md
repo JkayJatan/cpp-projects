@@ -2,7 +2,7 @@
 Author:Jatan kumar
 
 <br>
-This repository contains a collection of **C++ console-based projects** built while learning and practicing C++.  
+This repository contains a collection of **C++ projects** built while learning and practicing C++.  
 The projects progress from **beginner to advanced** level, covering core concepts like:
 
 - 📘 Basics: loops, arrays, strings, functions  
