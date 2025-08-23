@@ -9,22 +9,6 @@ The projects progress from **beginner to advanced** level, covering core concept
 - 🚀 Advanced: algorithms, design patterns, DSA-based applications  
 
 All projects run in the **console (terminal/command prompt)** using standard C++ (cin, cout, file I/O) without GUI libraries.  
-
-## 📂 Structure
-
-- cpp-console-projects/
-  - beginner/
-    - calculator.cpp
-    - tic_tac_toe.cpp
-    - ...
-  - intermediate/
-    - atm.cpp
-    - hospital.cpp
-    - ...
-  - advanced/
-    - sudoku_solver.cpp
-    - database_engine.cpp
-
 ## 🎯 Goals
 - Strengthen core C++ concepts.  
 - Learn structured project development.  
