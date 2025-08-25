@@ -15,6 +15,6 @@ All projects run in the **console (terminal/command prompt)** using standard C++
 - Build a foundation for later upgrading projects into **GUI applications**.  
 
 ## ✅ Example Projects
-- Beginner: Calculator, Tic-Tac-Toe, Library Management  
+- Beginner(1-9): Calculator, Tic-Tac-Toe, Library Management  
 - Intermediate: ATM System, Hospital Management, Sudoku Solver  
 - Advanced: Compiler (mini), Database Engine, OS Scheduler  
